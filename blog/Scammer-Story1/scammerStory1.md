@@ -133,7 +133,7 @@ Charles Jackson
 ```
 
 ### Attachment
-![](MEMORANDUM_OF_UNDERSTANDIN_ORIGINAL.jpg)
+![](img\MEMORANDUM_OF_UNDERSTANDIN_ORIGINAL.jpg)
 
 
 ## Uhrzeit 30.09.2022 10:36
@@ -221,18 +221,18 @@ Charles Jackson
 ```
 
 ### Attachment
-![](DEPOSIT_SLIP.jpg)
+![](img\DEPOSIT_SLIP.jpg)
 
 ### Analyse der Daten
 Die Faxnummer funktioniert nicht, aber die Telefonnummer existiert und gehört zu einen VOIP Provider der Gratis VOIP Anschlüsse zum Testen anbietet.
 
 #### Fake Bank
 Die Webseite ist der umfangreich, daher habe ich nicht von jeder Seite einen Screenshot erstellt.
-![](Bank1.png)
-![](Bank2.png)
-![](Bank3.png)
-![](Bank4.png)
-![](Bank5.png)
+![](img\Bank1.png)
+![](img\Bank2.png)
+![](img\Bank3.png)
+![](img\Bank4.png)
+![](img\Bank5.png)
 
 #### Analyse der Domain cadencebk.com
 ```
