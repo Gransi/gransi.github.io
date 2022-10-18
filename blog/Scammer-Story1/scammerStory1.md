@@ -1,6 +1,6 @@
 
 # Unterhaltung mit einem Scammer
-Obwohl mein Postfach mit einem Spamfilter der neuesten Generation ausgestattet ist, schafft es gelegentlich eine Spam-Mail in mein Postfach. Da ich mich schon immer interessiert habe, wie die Scammer arbeiten.
+Obwohl mein Postfach mit einem Spamfilter der neuesten Generation ausgestattet ist, schafft es gelegentlich eine Spam-Mail in mein Postfach. Da ich mich schon immer interessiert habe, wie die Scammer arbeiten. Habe ich den netten Herrn Charles angeschrieben und den E-Mailverlauf mitprotokolliert.
 
 # Kommunikations Geschichte
 
