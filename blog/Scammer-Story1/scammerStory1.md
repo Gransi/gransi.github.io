@@ -1,6 +1,6 @@
 
 # Unterhaltung mit einem Scammer
-Obwohl mein Postfach mit einem Spamfilter der neuesten Generation ausgestattet ist, schafft es gelegentlich eine Spam-Mail in mein Postfach. Da ich mich schon immer interessiert habe, wie die Scammer arbeiten. Habe ich den netten Herrn Charles angeschrieben und den E-Mailverlauf mitprotokolliert.
+Obwohl mein Postfach mit einem Spamfilter der neuesten Generation ausgestattet ist, schafft es gelegentlich eine Spam-Mail in mein Postfach. Da ich mich schon immer interessiert habe, wie die Scammer arbeiten. Habe ich den netten Herrn Charles angeschrieben und den E-Mailverlauf mitprotokolliert. Dabei habe ich eine Krankheit vorgetäuscht und habe erst auch erst einige Tage später zurückgeschrieben um die Reaktion abzuwarten.
 
 # Kommunikations Geschichte
 
@@ -963,4 +963,359 @@ Wie viel hast du zusammenbringen können?
 
 Grüße
 Charles Jackson
+```
+
+## Uhrzeit 18.10.2022 19:23
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+Payment must be made at the desk in our office.
+You must send a representative tomorrow to come over to the office and make the payment.
+Payment must not exceed 48 hours.
+
+Your Sincerely
+Mr. Sing Tom
+```
+
+## Uhrzeit 19.10.2022 08:46
+An: mr.singtom@gmail.com  
+Von: `Peter`
+
+```
+Which office did you mean?
+```
+
+## Uhrzeit 19.10.2022 09:07
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+
+Wie geht es dir heute, mein Freund und Partner?
+Gestern hatte ich meinen Rechtsanwalt Barr. Jonathan Davey geht zum IRS-Außenministerium, um sich mit Mr. Sing Tom zu treffen.
+Er machte deutlich, dass das Zertifikat heute bezahlt werden muss und die Frist nicht überschritten werden darf.
+Also bitte ich Sie, meinen Partner zu wissen. Konnten Sie den Fonds für die Gebühr zusammenstellen?
+Bitte melden Sie sich bei mir zurück.
+Anbei ist mein von Ihnen angeforderter Reisepass.
+
+Grüße
+Charles Jackson
+```
+
+### Attachment
+![](img/Passport.jpg)
+
+## Uhrzeit 19.10.2022 09:50
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+Alright, the IRS office in Houston Texas.
+One Barrister Jonathan Davey was here yesterday on your behalf and we spoke in lent.
+He said he was here to handle your file and after much discussion he projected on coming back today or tomorrow.
+Well as i have said in my previous mail to me, 48 hours elapsed today and due to his plea, We will accept receiving the payment tomorrow. So please make all arrangements with him so that payments can be made tomorrow.
+The details required from you, I request that you send them today to me to enable the Admin department draft your details on the certificate.
+
+Your Sincerely
+Mr. Sing Tom
+```
+
+## Uhrzeit 19.10.2022 13:34
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+
+Ich verstehe dein Schweigen nicht.
+Was ist los?
+
+Grüße
+Charles Jackson
+
+```
+
+## Uhrzeit 20.10.2022 07:32
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+Yesterday I didn't get a response from you.
+Kindly note that if you're not ready to make the payment, Indicate so that I can abort your request for the certificate.
+Should the request for the certificate be aborted?
+I look forward to hearing from you.
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 20.10.2022 10:40
+An: mr.singtom@gmail.com  
+Von: `Peter`
+
+```
+Please don’t abort the certificate. Currently I have limited access to mail.
+
+Best Regards
+Peter
+
+```
+
+## Uhrzeit 20.10.2022 11:08
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+So are you ready to make the payment?
+Because after the close of office today, Your request for the certificate will be aborted.
+So confirm if you're ready to make the payment so that i can contact a colleague in Europe who can assist us receive the fund and have to send the money through Crypto to the U.S and that will be faster and easier.
+Make available the required details at once because time is of essence.
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 20.10.2022 11:19
+An: mr.singtom@gmail.com  
+Von: `Peter`
+
+```
+What did you mean with Crypto?
+
+Best regards
+Peter
+
+```
+
+## Uhrzeit 20.10.2022 11:08
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+It's a means to send the money to the U.S faster.
+Here is his account for you to send the money. Send the money to the account details below and confirm the receipt to me.
+Are you making the complete payment or are you paying half the fee?
+
+Bank: Mooney
+account..Name: OvXXX Jeffrey
+Account number: 48100000XXXXX793
+IBAN: IT83K325320320000XXXXXXX697
+Bank address corso Giulio 34
+Country Italy
+Swift code: sigpitm1xxx
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 20.10.2022 16:05
+An: mr.singtom@gmail.com  
+Von: `Peter`
+
+```
+Hello Tom,
+
+is Jeffrey you European contact?
+Which account number is correct?
+Because the account number in the IBAN is different.
+
+Best regards
+Peter
+
+```
+
+## Uhrzeit 20.10.2022 16:13
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+The account information is correct, Go ahead and make the payment.
+
+Bank: Mooney
+account..Name: OvXXX Jeffrey
+Account number: 48100000XXXXX793
+IBAN: IT83K325320320000XXXXXXX697
+Bank address corso Giulio 34
+Country Italy
+Swift code: sigpitm1xxx
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 21.10.2022 08:32
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+Have you made the payment, Confirm the pay slip to me.
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 21.10.2022 13:28
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+
+Seit 2 Tagen habe ich immer noch nichts von Ihnen gehört.
+Offenbar sind Sie an dieser Transaktion nicht mehr interessiert.
+Ich werde nicht zulassen, dass Sie mich dazu bringen, diese Transaktion zu verlieren.
+Geben Sie einfach an, wenn Sie kein Interesse mehr haben, damit ich nach einem neuen Investor suchen werde, der diese Gebühr zahlt, und die Bank den Fonds überweisen lässt.
+Ich freue mich darauf, von Ihnen zu hören..
+
+Grüße
+Charles Jackson
+
+```
+
+## Uhrzeit 27.10.2022 08:50
+An: `Peter`  
+Von: mr.singtom@gmail.com  
+
+```
+Hello Peter.
+
+Please are you no longer interested? Indicate so that I can abort the request.
+Thanks
+
+Your Sincerely
+Mr. Sing Tom
+
+```
+
+## Uhrzeit 09.11.2022 08:28
+An: jacksonwinster24@gmail.com  
+Von: `Peter`
+
+```
+Hallo Charles,
+
+Es tut mir leid, dass sich nichts mehr von mir gehört haben.
+Ich hatte leider Covid mit einem schweren Verlauf und konnte nicht auf meine E-Mails zugreifen.
+
+Gilt Ihr Angebot noch?
+
+Mit freundlichen Grüßen
+
+```
+
+## Uhrzeit 09.11.2022 08:49
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+Es tut mir so leid, von Ihrem schlechten Gesundheitszustand zu hören, und ich hoffe, es geht Ihnen jetzt besser?
+Ja, ich kann die Transaktion nicht ohne Ihre Hilfe abschließen.
+Weil Ihr Name und Ihre Daten bei der Bank registriert sind.
+Also frage ich Sie: Haben Sie mit Herrn Tom die Unbedenklichkeitsbescheinigung abgeschlossen?
+
+Grüße
+Charles Jackson
+
+```
+
+## Uhrzeit 16.11.2022 06:49
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+
+Vor 7 Tagen hast du mir geschrieben, dass du krank warst und jetzt deinen Rücken und unsere Transaktion wurde gerade auf Eis gelegt und ob wir weitermachen können.
+
+Wie kommt es, dass du dich seitdem entschieden hast, zu schweigen?
+Wenn Sie nicht mehr bereit sind, fortzufahren, geben Sie dies bitte an, damit ich die Dienste eines neuen Investors in Anspruch nehmen und mit dieser Transaktion fortfahren kann.
+
+Das Jahr neigt sich dem Ende zu und sobald ein neues Auditing durchgeführt wird, ohne dass dieser Fonds die Bank verlässt, wird es Schlupflöcher geben, also helfen Sie mir und lassen Sie uns das jetzt erledigen, damit wir den Fonds nicht verlieren.
+
+Ich erwarte Ihre dringende Antwort.
+
+Grüße
+Charles Jackson
+
+```
+
+## Uhrzeit 16.11.2022 10:47
+An: jacksonwinster24@gmail.com  
+Von: `Peter`
+
+```
+Hallo,
+
+ich habe leider durch meine Erkrankung alles vergessen.
+
+Was meinen Sie mit der Transaktion?
+
+LG
+
+```
+
+## Uhrzeit 16.11.2022 10:58
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter.
+
+Bitte gehen Sie unsere vorherigen E-Mails durch, um sich zu erneuern.
+Ich warte darauf, von Ihnen zu hören.
+
+Grüße
+Charles Jackson
+
+```
+
+## Uhrzeit 22.11.2022 03:20
+An: `Peter`  
+Von: jacksonwinster24@gmail.com  
+
+```
+Liebe Grüße Peter
+
+Wie sind Sie heute mit Beruf und Familie vereinbar? hoffe gut?
+
+Ich bin überwältigt von der Freude, Ihnen mitteilen zu können, dass ich die Überweisungstransaktion unter Zusammenarbeit mit einem neuen Partner, einem Einwohner der Tschechischen Republik, abgeschlossen habe.
+
+Derzeit bin ich in den Vereinigten Staaten für Investitionsprojekte mit meinem eigenen Anteil an der Gesamtsumme.
+
+Jedenfalls habe ich Ihre bisherigen Bemühungen und Versuche, mir bei der Verwirklichung dieses Unterfangens zu helfen, trotz der Tatsache, dass es irgendwie gescheitert ist, nicht vergessen, weil Sie sich wie jemand anhörten, der von Natur aus pessimistisch ist. Wenn nicht, dass Freundschaft ein Schatz ist, werde ich dir dieses Geschenk nicht anbieten. Die Dinge werden besser, wenn Sie das Beste statt das Schlechteste erwarten. Der einzige Grund, warum Männer scheitern, ist ein gebrochener Fokus.
+
+Allerdings habe ich Ihre Zeit und Ihre Bemühungen damals sehr geschätzt. Wenden Sie sich jetzt an Reverend meiner Kirche, sein Name ist Reverend Wanda Cannon (wandacannon33@gmail.com)
+. Ich habe ihn gebeten, Ihnen einen Bankscheck über 400.000 USD zu schicken, den ich für Sie aufbewahrt habe, als Entschädigung für all die bisherigen Bemühungen und Versuche, mich bei diesem Unterfangen zu unterstützen.
+
+Bitte lassen Sie mich sofort wissen, dass Sie es erhalten, damit wir die Freude nach all den Zweifeln und Ängsten wie damals gemeinsam teilen können. Viele der Versager des Lebens sind Menschen, die nicht erkennen, wie nah sie dem Erfolg waren, als sie aufgegeben haben.
+
+Wie im Moment bin ich hier sehr beschäftigt wegen der Investitionsprojekte, die mir und dem neuen Partner bevorstehen.
+
+Denken Sie zum Schluss daran, dass ich in Ihrem Namen Anweisungen an den Reverend weitergeleitet hatte. Nehmen Sie also Kontakt mit ihm auf, und er wird Ihnen den Kassenscheck ohne Verzögerung zusenden.
+
+Grüße,
+Charles Jackson
+
 ```
